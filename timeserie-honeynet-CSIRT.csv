@@ -1,4 +1,4 @@
-DateTime, commands_rate
+timestamp,attack_rate
 2017-01-27,1
 2017-01-28,247
 2017-01-29,170
